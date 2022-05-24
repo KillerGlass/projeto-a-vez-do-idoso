@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    color: rgb(255,255,255);
+    font-family: "Poppins", sans-serif;
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+body{
+    background: url(./img/wp1892101-your-name-wallpapers.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+header ul{
+    display: flex;
+}
+
+.container{
+    text-align: center;
+}
+
+.container .name h1{
+    font-size: 60px;
+}
+
+.container .name h5{
+    font-size: 35px;
+}
+
+#bio p{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.form input{
+    width: 50%;
+}
+
+.form button{
+    width: 15%;
+}
