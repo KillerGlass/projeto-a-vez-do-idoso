@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "primeiro_projeto",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "Mikael santos <killerglass231@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "D": "^1.0.0",
+    "typescript": "^4.7.2"
+  }
 }
